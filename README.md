@@ -3,7 +3,7 @@ Minesweeper Game (ICS3U Final Project)
 
 Minesweeper game built using Python and Tkinter for ICS3U, featuring custom difficulties, appearance customization, 
 and save files.<br><br>
-<img src="images/gameplay.gif" alt="Gameplay" width="60%"><br>
+<img src="images/gameplay.gif" alt="Gameplay" width="50%"><br>
 
 Difficulty Selection
 --------------------
